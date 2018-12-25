@@ -1,5 +1,5 @@
 
-const User = use('App/Models/user');
+const User = use('App/Models/User');
 
 class UserController {
   async create({ request }) {
